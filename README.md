@@ -1,6 +1,6 @@
 # One Tool To Rule Them All
 
-![Banner](assets/banner.jpg)
+![Banner](assets/banner.webp)
 
 .NET in Memory Execution
 
